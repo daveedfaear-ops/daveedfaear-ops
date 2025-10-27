@@ -61,6 +61,6 @@ I am eager to secure a remote, entry-level AI Prompt Engineering role where I ca
 
 📧 **Email**: daveedfaear@gmail.com
 🔗 **LinkedIn**: [David T. Fair on LinkedIn](https://www.linkedin.com/in/david-fair-6bb495390)
-*(My complete professional resume and detailed portfolio are available on LinkedIn.)*
 ```
+
 
