@@ -1,12 +1,12 @@
-# Hi there! 👋 I'm David T. Fair
+# Welcome to my Personal Profile Page! I'm David T. Fair,
 
-A passionate and technically astute **AI Prompt Engineer** with a strong foundation in rigorous, compliance-driven quality control. I combine creative problem-solving with meticulous attention to detail to bridge the gap between human intent and high-quality AI outputs.
+A passionate and technically astute (though still a beginner) **AI Prompt Engineer** with a strong foundation in rigorous, compliance-driven quality control. I combine creative problem-solving with meticulous attention to detail to bridge the gap between human intent and high-quality AI outputs.
 
 ---
 
 ### 🚀 Who I Am & What I Do
 
-Fueled by a deep interest in the intersection of logic and creativity, my work is defined by a systematic approach to designing, testing, and refining complex prompts. I specialize in generating targeted AI responses, meticulously correcting model hallucinations, and ensuring strict content governance. My background in Quality Assurance provides a unique lens for iterative refinement and robust problem diagnosis in AI systems.
+Fueled by a deep interest in the intersection of logic and creativity, my work is defined by a systematic approach to designing, testing, and refining complex prompts. I specialize in generating targeted AI responses, meticulously correcting model hallucinations, and ensuring strict content governance. My background in Quality Assurance provides a unique lens for iterative refinement and robust problem diagnosis in AI systems, while my time in the **U.S. Air Force** seated a deep respect for, and adherance to, procedure. 
 
 ### 🛠️ Core Competencies & Technical Skills
 
@@ -26,6 +26,7 @@ Fueled by a deep interest in the intersection of logic and creativity, my work i
 *   Windows 11 (including command prompt, file management, system settings)
 
 **Professional Competencies**:
+*   U.S. Air Force Veteran
 *   Quality Assurance (QA)
 *   Technical Documentation
 *   Data Analysis & Validation
@@ -62,3 +63,4 @@ I am eager to secure a remote, entry-level AI Prompt Engineering role where I ca
 🔗 **LinkedIn**: [David T. Fair on LinkedIn](https://www.linkedin.com/in/david-fair-6bb495390)
 *(My complete professional resume and detailed portfolio are available on LinkedIn.)*
 ```
+
