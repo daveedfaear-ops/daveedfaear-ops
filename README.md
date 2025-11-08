@@ -1,14 +1,14 @@
 # Welcome to my Personal Profile Page! I'm David T. Fair,
 
-A passionate and technically astute (though still a beginner) **AI Prompt Engineer** with a strong foundation in rigorous, compliance-driven quality control. I combine creative problem-solving with meticulous attention to detail to bridge the gap between human intent and high-quality AI outputs.
+A passionate and technically astute (though still a beginner) **AI Prompt Engineer** with a strong foundation in rigorous, compliance-driven quality control. I combine creative problem-solving with[...] 
 
 ---
 
-### 🚀 Who I Am & What I Do
+### 🚀 Who I Am & What I Do 
 
-Fueled by a deep interest in the intersection of logic and creativity, my work is defined by a systematic approach to designing, testing, and refining complex prompts. I specialize in generating targeted AI responses, meticulously correcting model hallucinations, and ensuring strict content governance. My background in Quality Assurance provides a unique lens for iterative refinement and robust problem diagnosis in AI systems, while my time in the **U.S. Air Force** seated a deep respect for, and adherance to, procedure. 
+Fueled by a deep interest in the intersection of logic and creativity, my work is defined by a systematic approach to designing, testing, and refining complex prompts. I specialize in generating ta[...] 
 
-### 🛠️ Core Competencies & Technical Skills
+### 🛠️ Core Competencies & Technical Skills 
 
 **Prompt Engineering & AI**:
 *   Prompt Design & Refinement
@@ -35,32 +35,33 @@ Fueled by a deep interest in the intersection of logic and creativity, my work i
 
 ---
 
-### ✨ Featured Project: [RPG AI NPC Generator](https://github.com/daveedfaear-ops/rpg-ai-npc-generator)
+### ✨ Featured Project: [@daveedfaear-ops/GitHub-Summary-Generator](https://github.com/daveedfaear-ops/GitHub-Summary-Generator) 
 
-This project is a prime example of my iterative prompt engineering process, demonstrating the creation of an AI-powered tool for tabletop Role-Playing Game Masters to generate on-the-fly Non-Player Characters (NPCs).
+A lightweight tool for generating concise, human-readable summaries of GitHub repositories. The project demonstrates practical application of repository data extraction, natural language summarization, and prompt engineering to transform repository metadata, README content, and code insights into clear, digestible overviews for users.
 
 **Key Skills Demonstrated**:
-*   **Advanced Prompt Design**: Crafting persona-driven prompts for creative, context-aware content (e.g., NPC personalities, backgrounds, gear).
-*   **Structured Output (JSON)**: Engineering prompts to reliably output machine-readable JSON data.
-*   **Python Integration**: Developing Python scripts to interact with LLM APIs (Google Gemini), parse structured outputs, and format them into user-friendly, readable text (e.g., using `textwrap` for optimal display).
-*   **Iterative Testing & Refinement**: A methodical approach to diagnosing and resolving complex AI output issues (e.g., controlling response quantity, eliminating conversational filler, ensuring precise line-break formatting).
-*   **Problem-Solving & Strategic Pivoting**: Adapting solutions, such as shifting from attempting freeform text formatting to a more robust JSON + Python post-processing workflow, to achieve reliable results.
-*   **Technical Documentation**: Clearly outlining the project's purpose, development process, and execution instructions.
+*   **Repository Data Extraction & API Usage**: Using the GitHub API and repository crawling techniques to collect metadata, README content, and language statistics while handling pagination and rate limits.
+*   **Natural Language Summarization**: Designing prompts and pipelines to produce concise, accurate summaries that capture a repository's purpose, structure, and key files.
+*   **Prompt Engineering for Summarization**: Constructing robust, instruction-following prompts that guide the model to prioritize salient repository information and produce consistent formats.
+*   **Content Parsing & Heuristics**: Extracting meaningful signals from README, code comments, and file structures (e.g., detecting main modules, entry points, or example usages) to inform summaries.
+*   **Structured Output & Formatting**: Producing well-structured, human-readable outputs (Markdown/short paragraphs) and optional machine-readable metadata for downstream tooling.
+*   **Rate-Limit Handling & Caching**: Implementing strategies to respect API rate limits, cache fetched data, and retry transient failures for robust operation.
+*   **Language Detection & Multi-language Support**: Identifying repository language composition and adapting summarization strategies for multilingual projects.
+*   **Integration & Automation**: Packaging the summarization workflow into a CLI or web interface, integrating with CI to auto-generate summaries for releases or PRs.
+*   **Testing & Evaluation**: Creating evaluation test cases and manual review processes to measure summary quality, precision, and usefulness, and iteratively improving prompts and heuristics.
+*   **Documentation & User Experience**: Clear README documentation, usage examples, and configuration options so others can deploy and adapt the tool.
 
 ---
 
-### 📚 What I'm Learning & Looking For
+### 📚 What I'm Learning & Looking For 
 
-I am actively deepening my Python proficiency through hands-on projects and continuously exploring advanced techniques for integrating AI models into practical, user-centric applications. I am particularly drawn to creative AI applications and complex data synthesis.
+I am actively deepening my Python proficiency through hands-on projects and continuously exploring advanced techniques for integrating AI models into practical, user-centric applications. I am par[...] 
 
-I am eager to secure a remote, entry-level AI Prompt Engineering role where I can apply my unique blend of analytical rigor, creative problem-solving, and quality assurance expertise to contribute to the continuous improvement of cutting-edge AI systems.
+I am eager to secure a remote, entry-level AI Prompt Engineering role where I can apply my unique blend of analytical rigor, creative problem-solving, and quality assurance expertise to contribute[...] 
 
 ---
 
-### 🌐 Connect With Me
+### 🌐 Connect With Me 
 
 📧 **Email**: daveedfaear@gmail.com
 🔗 **LinkedIn**: [David T. Fair on LinkedIn](https://www.linkedin.com/in/david-fair-6bb495390)
-```
-
-
