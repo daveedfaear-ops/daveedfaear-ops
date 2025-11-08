@@ -55,9 +55,9 @@ A lightweight tool for generating concise, human-readable summaries of GitHub re
 
 ### 📚 What I'm Learning & Looking For 
 
-I am actively deepening my Python proficiency through hands-on projects and continuously exploring advanced techniques for integrating AI models into practical, user-centric applications. I am par[...] 
+I am actively deepening my Python proficiency through hands-on projects and continuously exploring advanced techniques for integrating AI models into practical, user-centric applications. I am particularly drawn to creative AI applications and complex data synthesis.
 
-I am eager to secure a remote, entry-level AI Prompt Engineering role where I can apply my unique blend of analytical rigor, creative problem-solving, and quality assurance expertise to contribute[...] 
+I am eager to secure a remote, entry-level AI Prompt Engineering role where I can apply my unique blend of analytical rigor, creative problem-solving, and quality assurance expertise to contribute to the continuous improvement of cutting-edge AI systems.
 
 ---
 
