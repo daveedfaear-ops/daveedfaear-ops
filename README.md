@@ -1,14 +1,14 @@
 # Welcome to my Personal Profile Page! I'm David T. Fair,
 
-A passionate and technically astute (though still a beginner) **AI Prompt Engineer** with a strong foundation in rigorous, compliance-driven quality control. I combine creative problem-solving with[...] 
+A passionate and technically astute (though still a beginner) **AI Prompt Engineer** with a strong foundation in rigorous, compliance-driven quality control. I combine creative problem-solving with meticulous attention to detail to bridge the gap between human intent and high-quality AI outputs.
 
 ---
 
-### 🚀 Who I Am & What I Do 
+### 🚀 Who I Am & What I Do
 
-Fueled by a deep interest in the intersection of logic and creativity, my work is defined by a systematic approach to designing, testing, and refining complex prompts. I specialize in generating ta[...] 
+Fueled by a deep interest in the intersection of logic and creativity, my work is defined by a systematic approach to designing, testing, and refining complex prompts. I specialize in generating targeted AI responses, meticulously correcting model hallucinations, and ensuring strict content governance. My background in Quality Assurance provides a unique lens for iterative refinement and robust problem diagnosis in AI systems, while my time in the **U.S. Air Force** seated a deep respect for, and adherance to, procedure. 
 
-### 🛠️ Core Competencies & Technical Skills 
+### 🛠️ Core Competencies & Technical Skills
 
 **Prompt Engineering & AI**:
 *   Prompt Design & Refinement
